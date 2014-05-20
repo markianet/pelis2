@@ -3,11 +3,8 @@ Kico: Tamb� m'agrada 2001 una odisea espacial
 Toni: Barrio Sesamo. La pel�cula    
 Gabi: 8 apellidos vascos.
 Aleix: Training Day.
-<<<<<<< HEAD
-=======
 Toni: Espinete.
-
 Xavi: ESDLA.
 Kico: 2001 crec que no la heu vista. Correcte?
+Gabi: Avatar!
 
->>>>>>> 6b04c27989ce28223e0e6ea92f2d3f820d2c708e
