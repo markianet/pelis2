@@ -1,10 +1,5 @@
 ﻿Kico:Blade Runner
 Kico: Tamb� m'agrada 2001 una odisea espacial
 Toni: Barrio Sesamo. La pel�cula    
-
-<<<<<<< HEAD
 Gabi: 8 apellidos vascos.
-=======
 Aleix: Training Day.
-
->>>>>>> fcdb8e93def334f8a09077ebe71a7f27071678e2
